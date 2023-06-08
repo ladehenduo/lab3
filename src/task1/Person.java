@@ -17,3 +17,4 @@ public class Person {
         System.out.println("姓名：" + name + "\n" + "性别：" + gender);
     }
 }
+//

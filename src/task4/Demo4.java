@@ -99,4 +99,4 @@ public class Demo4 {
 //        insertText("测试", "E:\\JavaEE\\lab3\\src\\task4\\text", null);
         insertPicture("a.jpg", "E:\\JavaEE\\lab3\\src\\task4\\a.jpg");
     }
-}
+}//

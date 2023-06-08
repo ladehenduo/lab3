@@ -19,6 +19,7 @@ public class Demo1 {
             System.out.println("未找到" + c.getName() + "类关于MyAnnotation注解的信息");
         }
     }
+    //
     @SuppressWarnings("rawtypes")
     public static void main(String[] args) {
         Class person = Person.class;

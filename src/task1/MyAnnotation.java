@@ -10,3 +10,4 @@ public @interface MyAnnotation {
     String value1() default "nil";
     int value2() default 1;
 }
+//

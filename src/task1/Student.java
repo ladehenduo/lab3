@@ -8,7 +8,7 @@ public class Student extends Person{
     public void showInfo() {
         System.out.println("姓名：" + name + "\n学号：" + number + "\n专业：" + major);
     }
-
+//
 //    @Override 取消注释，展示Override的作用
     public void learn(double d) {
         if(d < 0) {
