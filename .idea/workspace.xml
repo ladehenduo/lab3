@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9746014-2079-4086-ab60-e51ab42be47e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/JUnitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task4/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task4/Demo4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +42,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/JavaEE/lab3/src/task4",
+    "last_opened_file_path": "E:/IDEA_Java/lab3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
