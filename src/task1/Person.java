@@ -6,8 +6,9 @@ import java.lang.annotation.Inherited;
 public class Person {
     public String name;
     public String gender;
-    public void eat(double t) {
+    public double eat(double t) {
         System.out.println(name + "本次吃饭吃了" + t + "小时");
+        return t;
     }
     @Deprecated
     public void deprecatedTest() {
