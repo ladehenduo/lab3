@@ -26,11 +26,6 @@ public class Demo4 {
         }
     }
 
-    public static String bytesToString (byte[] bytes, int len) {
-        String res = "";
-        for(int i = 0; i < len; i++) res += bytes[i];
-        return res;
-    }
     public static String charToString (char[] chs, int len) {
         String res = "";
         for(int i = 0; i < len; i++) res += chs[i];
